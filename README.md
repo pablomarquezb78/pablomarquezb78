@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A Software engineering student at the University of Malaga (Spain)</h3>
 
-- 🌱 I’m currently learning **DeepLearning**
-
 - 📫 How to reach me **pablomarquezbenitez78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
