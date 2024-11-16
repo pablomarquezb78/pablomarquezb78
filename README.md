@@ -1,6 +1,6 @@
 <h1>☕ About me:</h1>
 
-<h3 align="center">A Software engineering student at the University of Malaga (Spain)</h3>
+<h3 align="center">A Software engineering student at the University of Malaga (Spain)</h3><br/>
 
 - 🌱 I’m currently learning **FastAPI & Deep Learning**
 
