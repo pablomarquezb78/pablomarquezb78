@@ -2,8 +2,6 @@
 
 <h3 align="center">A Software engineering student at the University of Malaga (Spain)</h3><br/>
 
-- 🌱 I’m currently learning **FastAPI & Deep Learning**
-
 - 📫 How to reach me **pablomarquezbenitez78@gmail.com**
 
 <h2 align="left">🌐Connect with me:</h2>
